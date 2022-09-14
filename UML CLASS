@@ -1,4 +1,19 @@
 from n import N
+from e import E
   class user(N):
     def__init__(self, name, adress, phone)
-    self.name
+      self.name = name
+      self.adress = adress
+      self.phone = phone
+ class BSTATUS(E):
+  Disponible, NoDisponible, Perdido, Reservado = 1, 2, 3, 4
+  
+  class Constante(E):
+    def___init__(self):
+      self.maxlibrosxuser = 3
+      self.maxtiempoxuser = 15
+      
+      
+      
+      
+    

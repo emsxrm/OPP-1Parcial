@@ -1,1 +1,4 @@
-
+from n import N
+  class user(N):
+    def__init__(self, name, adress, phone)
+    self.name
